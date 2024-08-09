@@ -752,14 +752,14 @@ ajv@^6.12.4:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-animated-scrollcard-ngit@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/animated-scrollcard-ngit/-/animated-scrollcard-ngit-1.2.1.tgz#21792a64c68c006cfb05cfff4f632f44a157eec3"
-  integrity sha512-afu+FW/MnKBYXQR4Jk3rNV8JW0VuG7VAHO1r0FBq9gdL1fISc/58n13BY77gxdz2hgkEWcYzp/fJZVwxAR0P3Q==
+animated-scrollcard-ngit@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/animated-scrollcard-ngit/-/animated-scrollcard-ngit-1.3.1.tgz#6986695ab591b17200086ddc4bb81a4d1f35a0a5"
+  integrity sha512-lv3HuWolGn3vsUMsSxUqIoctLRQlle/w5EIgY0Z+GgosXG8/+UuWIscCVZzZIJlkM2r7Ud3abytdvOrwyo5goQ==
   dependencies:
     "@radix-ui/react-slot" "^1.1.0"
     class-variance-authority "^0.7.0"
-    clsx "^2.1.1"
+    clsx "^2.1.2"
     embla-carousel-react "^8.1.8"
     lucide-react "^0.424.0"
     react "^18.3.1"
@@ -890,7 +890,7 @@ clsx@2.0.0:
   resolved "https://registry.yarnpkg.com/clsx/-/clsx-2.0.0.tgz#12658f3fd98fafe62075595a5c30e43d18f3d00b"
   integrity sha512-rQ1+kcj+ttHG0MKVGBUXwayCCF1oh39BF5COIpRzuCEv8Mwjv0XucrI2ExNTOn9IlLifGClWQcU9BrZORvtw6Q==
 
-clsx@^2.1.1:
+clsx@^2.1.2:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/clsx/-/clsx-2.1.1.tgz#eed397c9fd8bd882bfb18deab7102049a2f32999"
   integrity sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==
